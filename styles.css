@@ -61,6 +61,7 @@ main {
 .springs {
     position: relative;
     width: 80%;
+    max-width: 30rem;
     margin: auto;
     z-index: -1;
 
