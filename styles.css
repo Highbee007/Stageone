@@ -71,6 +71,8 @@ main {
     border: 1px solid black;
     height: 7rem;
     margin-top: -70px;
+    width: 80%;
+    max-width: 30rem;
     border-radius: 50%;
 }
 
