@@ -4,7 +4,7 @@
 
 body {
     margin: 0;
-    background-color: #ccc;
+    background-color: white;
 }
 
 
@@ -55,7 +55,7 @@ main {
     position: relative;
     box-shadow: 1px 0 2px black;
     background-color: #000;
-    color: #ccc;
+    color: white;
 }
 
 .springs {
