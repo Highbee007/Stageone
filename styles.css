@@ -109,13 +109,14 @@ main {
     max-width: 40rem;
 }
 
+
 .goal p {
     font-size: 1.1rem;
     font-family: Dm Mono;
     color: #ccc;
 }
 
-.goal {
+.goal, legend {
     border: none;
     border-radius: 20px;
     background-color: black;
