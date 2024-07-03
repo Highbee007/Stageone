@@ -111,11 +111,15 @@ main {
 .goal p {
     font-size: 1.1rem;
     font-family: Dm Mono;
-
+    color: #ccc;
 }
 
 .goal {
-    border: 2px dashed black;
+    border: none;
+    border-radius: 20px;
+    background-color: black;
+    box-shadow: 0 1px 2px #ccc;
+    color: white;
 }
 
 @media screen and (max-width: 800px) {
